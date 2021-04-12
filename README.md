@@ -18,4 +18,4 @@ Le projet contient un fichier DEMINEUR.py contenant le code du démineur, un dos
 
 # Contexte
 
-J'ai réalisé ce projet au cours de mon Titre Professionnel Concepteur Développeur d'Applications. Je n'ai eu que quelques jours pour réaliser la totalité du projet, avec sa maquette, et son pseudo code. Un défaut subsiste au rendu final du projet, si un utilisateur ouvre toutes les cases d'une même ligne, ou d'une même colonne, la fenêtre du jeu se réduit pour chaque ligne / colonne; je n'ai jamais réussi à corriger ce problème.
+J'ai réalisé ce projet au cours de mon Titre Professionnel Concepteur Développeur d'Applications. Je n'ai eu que quelques jours pour réaliser la totalité du projet, avec sa maquette, et son pseudo code. Un défaut subsiste au rendu final du projet, si un utilisateur ouvre toutes les cases d'une même ligne ou d'une même colonne, la fenêtre du jeu se réduit pour chaque ligne / colonne; je n'ai jamais réussi à corriger ce problème.
