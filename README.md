@@ -15,3 +15,7 @@ La partie se termine lorsque le joueur a cliqué sur une bombe, (dans ce cas tou
 # Contenu 
 
 Le projet contient un fichier DEMINEUR.py contenant le code du démineur, un dossier d'images contenant l'image utilisée pour afficher les bombes en cas de défaite, et un fichier drawio contenant la maquette du démineur, les règles du jeu, et son pseudo code.
+
+# Contexte
+
+J'ai réalisé ce projet au cours de mon Titre Professionnel Concepteur Développeur d'Applications. Je n'ai eu que quelques jours pour réaliser la totalité du projet, avec sa maquette, et son pseudo code. Un défaut subsiste au rendu final du projet, si un utilisateur ouvre toutes les cases d'une même ligne, ou d'une même colonne, la fenêtre du jeu se réduit pour chaque ligne / colonne; je n'ai jamais réussi à corriger ce problème.
